@@ -1,0 +1,17 @@
+.home {
+    background-color: #E9967A;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-family: "Times New Romans";
+    font-size: 15px;
+}
+
+h2 {
+    font-family: monospace;
+    margin: 5px;
+}
+
+h3 {
+    font-family: monospace;
+}

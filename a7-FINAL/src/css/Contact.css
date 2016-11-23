@@ -1,0 +1,18 @@
+.contact {
+    padding: 10px;
+    margin: 10px;
+}
+
+.container {
+    margin: 10px auto;
+    background-color: #E9967A;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: "Calibri";
+    font-size: 18px;
+}
+
+h1 {
+    margin: 5px;
+    font-family: monospace;
+}

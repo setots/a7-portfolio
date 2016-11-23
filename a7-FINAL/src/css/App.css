@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.active {
+    color: #552B72;
+}
+
+a {
+    color: #E9967A  ;
+}
+
+.navbar {
+    background-color: #E9967A   ;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.link {
+    margin: 5px;
+    padding: 5px;
+    font-family: "Calibri";
+}
+
+body {
+    background-image: url(../img/background.png);
+    background-size: auto;
+}
+
+.header {
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 750px;
+    margin: 0 auto;
+}
+
+.row {
+    padding: 20px;
+}
+
+.container {
+    background-color: #8B0000   ;
+    padding: 5px;
+}
+
+.footer {
+    font-family: monospace;
+}

@@ -1,0 +1,23 @@
+{
+  "assignments": [
+    {
+      "url" : "https://students.washington.edu/setots/INFO343/a1-git-started-setots/a1-git-started-setots/",
+      "title" : "Assignment 1: Hello Kitty ",
+      "description" : "A simple webpage about the funny character, Hello Kitty .",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-14c2b.appspot.com/o/a1.png?alt=media&token=9edb4e25-480d-4d18-9929-dc03061aeec0"
+    },
+   
+    {
+      "url" : "https://students.washington.edu/setots/INFO343/a4-firebase-setots/sign-in.html",
+      "title" : "Assignment 4: Tweeter",
+      "description" : "A Twitter application, that works on ,mobile application and Web, built using Firebase.",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-14c2b.appspot.com/o/a4.png?alt=media&token=8f37cd43-4a75-481c-a012-cd9a515f5406"
+    },
+    {
+      "url" : "https://students.washington.edu/setots/INFO343/a5-spotify-setots/",
+      "title" : "Assignment 5: Spotify",
+      "description" : "An app that gives users Broadway tunes to listen to depending on their mood.",
+       "image" : "https://firebasestorage.googleapis.com/v0/b/portfolio-14c2b.appspot.com/o/a5.png?alt=media&token=779d075c-8252-4dd1-bd8d-6ceac41a8dff"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.title {
+    font-weight: 900;
+    font-size: 1.5em;
+}
+
+.card {
+    margin-bottom: 2px;
+}
+
+.card .card-action a {
+    color: #000000!important;
+    background-color: #E9967A	
+}
